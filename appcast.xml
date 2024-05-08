@@ -3,9 +3,8 @@
     <channel>
         <title>Help Code TJCODE- Appcast</title>
        <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <title>Version 6.0</title>
+        <sparkle:version>6.0</sparkle:version>
     </item>
     </channel>
 </rss>
