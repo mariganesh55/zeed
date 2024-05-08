@@ -1,10 +1,10 @@
-<?xml version="6.0.0" encoding="utf-8"?>
-<rss version="6.0.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="7.0.0" encoding="utf-8"?>
+<rss version="7.0.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Help Code TJCODE- Appcast</title>
        <item>
-        <title>Version 6.0</title>
-        <sparkle:version>6.0</sparkle:version>
+        <title>Version 7.0</title>
+        <sparkle:version>7.0</sparkle:version>
     </item>
     </channel>
 </rss>
