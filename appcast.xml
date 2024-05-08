@@ -5,6 +5,7 @@
        <item>
         <title>Version 7.0</title>
         <sparkle:version>7.0</sparkle:version>
+        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
     </channel>
 </rss>
